@@ -1,2 +1,3 @@
 # Neural_Style_Transfer
-Neural_Style_Transfer from Scratch in PyTorch
+Neural Style Transfer from Scratch in PyTorch
+Paper link : https://arxiv.org/pdf/1508.06576.pdf
